@@ -13,3 +13,4 @@ You can see the code I used to get the first visualization [here](https://github
 ## Second Visualization, Quarterback Archetype Draft (under construction)
 
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
+### Check out my [Blog](https://trace-winkler.github.io/blog/)
