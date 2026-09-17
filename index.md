@@ -1,4 +1,4 @@
-# Summary
+# Project Summary
 For this project, I wanted to see multiple visualizations about how two-high safety usage has affected how NFL teams draft in the first two rounds. 
 
 ## First Visualization, NFL Safety Coverage Usage
