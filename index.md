@@ -11,6 +11,7 @@ This is because two-high safety defense is incredible at negating big gain passi
 You can see the code I used to get the first visualization [here](https://github.com/trace-winkler/data-science-portfolio/blob/main/projects/project1/project1raw/DTSC%20Project%201.ipynb). Feel free to check out the data I used [here](https://github.com/trace-winkler/data-science-portfolio/blob/main/projects/project1/project1raw/Project%201%20Info2%20DTSC%20CSV.csv).
 
 ## Second Visualization, Quarterback Archetype Draft (under construction)
+For the second visualization, I personally wanted to see how the resurgence of two-high safety affected how prone NFL teams were to drafting scrambling quarterbacks. I personally collected the data(link data here) for this, which was a lot of fun. I started the data collection at the year 2000 using the draft records from [Pro Football Reference](https://www.pro-football-reference.com/). This allowed me to find every quarterback in the first two rounds, and I used my own discretion to determine whether I considered the quarterback to be more of a scrambler or a pocket passer. 
 
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
 ### Check out my [Blog](https://trace-winkler.github.io/blog/)
