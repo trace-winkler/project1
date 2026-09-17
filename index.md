@@ -11,3 +11,5 @@ This is because two-high safety defense is incredible at negating big gain passi
 You can see the code I used to get the first visualization [here](https://github.com/trace-winkler/data-science-portfolio/blob/main/projects/project1/project1raw/DTSC%20Project%201.ipynb). Feel free to check out the data I used [here](https://github.com/trace-winkler/data-science-portfolio/blob/main/projects/project1/project1raw/Project%201%20Info2%20DTSC%20CSV.csv).
 
 ## Second Visualization, Quarterback Archetype Draft (under construction)
+
+### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
