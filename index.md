@@ -15,5 +15,7 @@ For the second visualization, I personally wanted to see how the resurgence of t
 
 Check out the data I collected [here](https://github.com/trace-winkler/project1/blob/main/p2/Project%201%20Info%20DTSC%20CSV.csv).
 
+## Project One Final Statement
+Before I made the visualizations, I would've assumed that since the resurgance of two-high safety, NFL teams wouldn've been much more inclined to draft dual-threat quarterbacks over pocket passers with their most valuable draft picks. (AFTER HTE PROJECT)
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
 ### Check out my [Blog](https://trace-winkler.github.io/blog/)
