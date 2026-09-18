@@ -13,9 +13,14 @@ You can see the code I used to get the first visualization [here](https://github
 ## Second Visualization, Quarterback Archetype Draft (under construction)
 For the second visualization, I personally wanted to see how the resurgence of two-high safety affected how prone NFL teams were to drafting scrambling quarterbacks. I personally collected the data(link data here) for this, which was a lot of fun. I started the data collection at the year 2000 using the draft records from [Pro Football Reference](https://www.pro-football-reference.com/). This allowed me to find every quarterback in the first two rounds, and I used my own discretion to determine whether I considered the quarterback to be more of a scrambler or a pocket passer.
 
+<img width="1200" height="350" alt="image" src="https://github.com/user-attachments/assets/3d52aec0-4e83-4203-8c4a-4e5221b4d0aa" />
+
+From this visualization, we can see that, despite a decent increase over time, NFL teams still lean towards drafting pocket passers.
+
 Check out the data I collected [here](https://github.com/trace-winkler/project1/blob/main/p2/Project%201%20Info%20DTSC%20CSV.csv).
 
 ## Project One Final Statement
-Before I made the visualizations, I would've assumed that since the resurgance of two-high safety, NFL teams wouldn've been much more inclined to draft dual-threat quarterbacks over pocket passers with their most valuable draft picks. (AFTER HTE PROJECT)
+Before I made the visualizations, I would've assumed that since the resurgence of two-high safety, NFL teams would've been much more inclined to draft dual-threat quarterbacks over pocket passers with their most valuable draft picks. However, after I completed the two visualizations, I realized that my assumption has been wrong. Whole there aren't many quarterbacks drafted in the first two rounds historically, teams usually lean towards what I call a "pocket passer." 
+
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
 ### Check out my [Blog](https://trace-winkler.github.io/blog/)
