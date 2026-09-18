@@ -20,7 +20,9 @@ From this visualization, we can see that, despite a decent increase over time, N
 Check out the data I collected [here](https://github.com/trace-winkler/project1/blob/main/p2/Project%201%20Info%20DTSC%20CSV.csv).
 
 ## Project One Final Statement
-Before I made the visualizations, I would've assumed that since the resurgence of two-high safety, NFL teams would've been much more inclined to draft dual-threat quarterbacks over pocket passers with their most valuable draft picks. However, after I completed the two visualizations, I realized that my assumption has been wrong. Whole there aren't many quarterbacks drafted in the first two rounds historically, teams usually lean towards what I call a "pocket passer." 
+Before I made the visualizations, I would've assumed that since the resurgence of two-high safety, NFL teams would've been much more inclined to draft dual-threat quarterbacks over pocket passers with their most valuable draft picks. However, after I completed the two visualizations, I realized that my assumption has been wrong. To be completely honest, I thought that a lot more quarterbacks have been drafted, but when I think it, the NFL and it's organizations has done a solid job when it comes to retaining veteran quarterbacks. If you go along the common NFL definition of "veteran" being a player with 4 or more years under their belt, 23 out of 2 NFL starting qbs are veterans. 
+
+Despite that, it's clear to me that with their most valuable picks, NFL teams seem to be more likely to draft a pocket passer over a scrambler. In my own opinion, I believe that this is because pocket passers tend to have better film on them. While a scrambler is valuable, it's always a concern whether or not their playstyle will translate to the National Football League. The defenses are bigger, stronger, and more vicious than their college counterparts.
 
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
 ### Check out my [Blog](https://trace-winkler.github.io/blog/)
